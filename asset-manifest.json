@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learn-german/static/css/main.44005263.css",
+    "main.js": "/learn-german/static/js/main.8702fdee.js",
+    "static/js/453.af3e77f1.chunk.js": "/learn-german/static/js/453.af3e77f1.chunk.js",
+    "index.html": "/learn-german/index.html",
+    "main.44005263.css.map": "/learn-german/static/css/main.44005263.css.map",
+    "main.8702fdee.js.map": "/learn-german/static/js/main.8702fdee.js.map",
+    "453.af3e77f1.chunk.js.map": "/learn-german/static/js/453.af3e77f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44005263.css",
+    "static/js/main.8702fdee.js"
+  ]
+}
